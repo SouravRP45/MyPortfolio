@@ -44,6 +44,5 @@ A premium, dark-glassmorphic personal portfolio website built with pure HTML, CS
 MIT — Free to use and modify.
 
 to view it
-cd c:\Users\HP\AntiGrad_Codes\portfolio
-python -m http.server 8080
-# Open http://localhost:8080
+
+# Open https://souravrp45.github.io/MyPortfolio/
